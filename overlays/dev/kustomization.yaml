@@ -5,4 +5,4 @@ resources:
   - ../../base
 images:
   - name: ghcr.io/nikhilnaik23/todo-app
-    newTag: sha-3e43148
+    newTag: sha-89a6f79
